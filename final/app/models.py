@@ -1,4 +1,4 @@
-# NOTE: Enter Command -> python manage.py inspectdb>models.py
+# NOTE: Enter Command -> python manage.py inspectdb > models.py
 
 # This is an auto-generated Django model module.
 # You'll have to do the following manually to clean this up:
